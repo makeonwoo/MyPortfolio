@@ -12,3 +12,5 @@
   두가지 카테고리로 분류하여 각각의 기능을 구현
   경적신호의 경우 Mel-Spectogram을 통하여 음성신호를 이미지로 변환 후 CNN모델을 사용하여
   신호를 분류  <br><br>
+  
+[최종결과물 영상](https://youtu.be/sSnHU26QQiU)
