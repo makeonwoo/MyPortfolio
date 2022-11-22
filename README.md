@@ -51,6 +51,6 @@
 ### 자기주도학습
 <ul> 
   <li>
-    알고리즘 학습
+    알고리즘 학습[링크](https://github.com/makeonwoo/Algorithm)
   </li>
 </ul>
