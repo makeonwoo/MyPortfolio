@@ -30,13 +30,26 @@
 
 ## Project
 
-1.갖다드림(모바일어플리케이션) [링크](https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md)  
-  상명대학교 학생들의 심부름 어플 - DB설계, 안드로이드 스튜디오  
-2.이어폰 알람 [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%9D%B4%EC%96%B4%ED%8F%B0%EC%95%8C%EB%9E%8C)  
-  각종 외부 음성신호를 인식하여 이어폰착용자에게 알림을주는 어플 - 딥러닝(Python), 안드로이드 스튜디오  
-3.축구선수 [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)  
-  축구선수들의 데이터를 정리하여 원하는 데이터를 뽑아내는 프로젝트 - MySql  
-4.mini-shell [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell)  
-  리눅스의 Shell 기능을 직접 코드로 작성하는 프로젝트  
+### 개인프로젝트
+<ul>
+  <li>축구선수 [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)  
+    축구선수들의 데이터를 정리하여 원하는 데이터를 뽑아내는 프로젝트 - MySql  </li>
+  <li>mini-shell [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell)  
+    리눅스의 Shell 기능을 직접 코드로 작성하는 프로젝트  </li>
+  </ul>
+
 5.[쇼핑몰]()  
-  
+
+### 팀프로젝트
+<ul>
+  <li>갖다드림(모바일어플리케이션) [링크](https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md)  
+    상명대학교 학생들의 심부름 어플 - DB설계, 안드로이드 스튜디오  </li>
+  <li>이어폰 알람 [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%9D%B4%EC%96%B4%ED%8F%B0%EC%95%8C%EB%9E%8C)  
+    각종 외부 음성신호를 인식하여 이어폰착용자에게 알림을주는 어플 - 딥러닝(Python), 안드로이드 스튜디오  </li>
+</ul>  
+
+### 자기주도학습
+<ul> 
+  <li>
+    알고리즘 학습</li>
+</ul>
