@@ -14,4 +14,3 @@
   메뉴는 Peer To Peer 아키텍처로 구현하였으며 사용자가 서비스를 제공및 요청 모두가 가능한 어플리케이션  
   각 사용자는 자신이 원하는 바를 게시판에 게시할수 있으며 다른사람이 게시판에 등록한 서비스를 제공  
   어플리케이션 설명 및 실행영상 : https://www.youtube.com/watch?v=jB9QAhMm0tQ  <br><br>
-[최종결과물 영상](https://youtu.be/sSnHU26QQiU)
