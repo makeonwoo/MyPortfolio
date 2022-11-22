@@ -35,6 +35,7 @@
 ## Project
 
 <b>1. 갖다드림</b>  
+1.[갖다드림(모바일어플리케이션)](https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md)
   상명대학교 학생들의 심부름 어플  
   기간 : 2020.03 ~ 2020.07  
   목적 : 교내에서 누군가의 도움이 필요한 상황을 종종 겪게되며 상명대학교 학생들끼리 서로 도움을 줄수있는  
