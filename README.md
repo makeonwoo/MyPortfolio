@@ -18,8 +18,8 @@
 |2021|임베디드시스템설계|C|miniShell|리눅스의 이론과 c를이용한 쉘구현|A+|
 |2022|캡스톤디자인|Python,Java|이어폰알람|자율 프로젝트|B|
 |2022|웹프레임워크설계|Html,JS|X|Java Script를 사용한 웹페이지 작성방법|A+|
-### 자격증
-정보처리 산업기사<br><br>
+## 자격증
+정보처리 산업기사
 ## Skill
 <ul>
   <li>C</li>
@@ -32,32 +32,22 @@
 ## 개인프로젝트 
 
 <ul>
-  <li>축구선수 DB</li>
-  <li>mini-shell </li>
-  <li>[쇼핑몰]()  
-  </li>
+  <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">링크</a></li>
+  <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">링크</a></li>
+  <li>[쇼핑몰]()</li>
 </ul>   
-
-[축구선수 DB](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)  
-
-[mini-shell](https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell)
 
 ## 팀프로젝트
 
 <ul>
-  <li>갖다드림(모바일어플리케이션)</li>  
-  <li>이어폰 알람(모바일어플리케이션)</li>
+  <li>갖다드림(모바일어플리케이션) <a href = "https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md">링크</a></li>
+  <li>이어폰 알람(모바일어플리케이션) <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%9D%B4%EC%96%B4%ED%8F%B0%EC%95%8C%EB%9E%8C">링크</a></li>
 </ul>  
 
-[갖다드림](https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md)  
-
-[이어폰 알람](https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%9D%B4%EC%96%B4%ED%8F%B0%EC%95%8C%EB%9E%8C)  
-  
 ## 활동
 <ul> 
   <li>
-    알고리즘 학습[링크](https://github.com/makeonwoo/Algorithm)
-  </li>
+    알고리즘 학습<a href = "https://github.com/makeonwoo/Algorithm">링크</a></li>
   <li>
     we-up 프로젝트
     </li>
