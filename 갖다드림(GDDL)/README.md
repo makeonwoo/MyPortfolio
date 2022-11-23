@@ -13,4 +13,34 @@
   메인 기능은 각 사용자가 서비스를 등록 및 수행하는것이 목표  
   메뉴는 Peer To Peer 아키텍처로 구현하였으며 사용자가 서비스를 제공및 요청 모두가 가능한 어플리케이션  
   각 사용자는 자신이 원하는 바를 게시판에 게시할수 있으며 다른사람이 게시판에 등록한 서비스를 제공  
-  어플리케이션 설명 및 실행영상 : https://www.youtube.com/watch?v=jB9QAhMm0tQ  <br><br>
+# GDDL(갖다드림)
+
+상명대학교 학생들의 심부름 어플로 교내에서 다른사람의 도움이 필요한 상황을 종종 겪게되며 상명대학교 학생들끼리  
+서로 도움을 줄수 있는 어플리케이션을 개발하기 시작하였습니다.
+
+## 어플리케이션 설명 및 실행영상
+
+https://www.youtube.com/watch?v=jB9QAhMm0tQ
+
+### 테스트는 이런 식으로 동작합니다
+
+왜 이렇게 동작하는지, 설명합니다
+
+```
+예시
+```
+
+### 테스트는 이런 식으로 작성하시면 됩니다
+
+```
+예시
+```
+
+## Built With / 누구랑 만들었나요?
+
+* [이름](링크) - 무엇 무엇을 했어요
+* [Name](Link) - Create README.md
+
+## Contributiong / 기여
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
