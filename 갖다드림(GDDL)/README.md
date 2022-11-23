@@ -2151,4 +2151,4 @@ ___
 - Android 안드로이드에서 HttpUrlConnection을 이용해 Servlet과 단방향 통신으로 하고, service 기능을 이용해 socket과 양방향 통신을 하며, 백엔드로 Servlet과 socket이 JDBC를 통해 Database에 접근 및 관리한다.
 ___
 
-최종보고서 원본 : https://github.com/okseokwooo/GDDL/tree/master
+최종보고서 원본 - 파일포함 : https://github.com/okseokwooo/GDDL/tree/master
