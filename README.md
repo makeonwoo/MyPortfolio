@@ -20,35 +20,39 @@
 |2022|웹프레임워크설계|Html,JS|X|Java Script를 사용한 웹페이지 작성방법|A+|
 ### 자격증
 정보처리 산업기사<br><br>
-[링크](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)  
 ## Skill
+<ul>
+  <li>C</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>Javascript</li>
+  <li>sql</li>
+</ul>  
 
-1. C
-2. Java
-3. Python
-4. Javascript
-5. sql
-
-## 개인프로젝트
-[링크](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)  
+## 개인프로젝트 
 
 <ul>
   <li>축구선수 DB</li>
-  <li>mini-shell [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell)</li>
+  <li>mini-shell </li>
   <li>[쇼핑몰]()  
   </li>
 </ul>   
 
+[축구선수 DB](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)  
+
+[mini-shell](https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell)
 
 ## 팀프로젝트
 
 <ul>
-  <li>갖다드림(모바일어플리케이션) [링크](https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md)  
-    상명대학교 학생들의 심부름 어플 - DB설계, 안드로이드 스튜디오  </li>
-  <li>이어폰 알람(모바일어플리케이션) [링크](https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%9D%B4%EC%96%B4%ED%8F%B0%EC%95%8C%EB%9E%8C)  
-    각종 외부 음성신호를 인식하여 이어폰착용자에게 알림을주는 어플 - 딥러닝(Python), 안드로이드 스튜디오  </li>
+  <li>갖다드림(모바일어플리케이션)</li>  
+  <li>이어폰 알람(모바일어플리케이션)</li>
 </ul>  
 
+[갖다드림](https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md)  
+
+[이어폰 알람](https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%9D%B4%EC%96%B4%ED%8F%B0%EC%95%8C%EB%9E%8C)  
+  
 ## 활동
 <ul> 
   <li>
