@@ -92,6 +92,8 @@ ___
 ___
 
 ## 6. 앱 실행 환경 구축
+<details>
+<summary>앱 실행 환경 구축</summary>
 
 1. JSP 개발환경 구축
 
@@ -151,6 +153,7 @@ public class FinalDB {
        
        질문 사항이 있거나 원활히 진행되지 않는다면 Ecampus 해당분반 "차형석" 학생에게 메시지 보내주시면 감사하겠습니다.
 ___
+</details>
 
 ## 7. 각 클래스 기능별 설명
 
@@ -314,6 +317,10 @@ ___
 ___
 
 ## 9. 각 클래스별 코드설명
+
+<details>
+<summary>각 클래스별 코드 설명</summary>
+
  - LoginActivity(로그인)
  
  ```java
@@ -2125,6 +2132,8 @@ public class InsertBoardActivity extends AppCompatActivity {
 }
 
 ```
+</details>
+
 ___
 ## 10. "갖다드림" 어플리케이션 한계점
 
