@@ -2150,3 +2150,5 @@ ___
 - 캠퍼스 내 학생 및 기숙사/인근 거주 학생을 중심으로 운영되므로 , 방학이나 전염병 유행 상황 시 서비스가 원활하게 운영되지 않을 수 있다. 또한 서비스에 대한 신뢰도가 사용자의 매너에 의존한다는 점에서 한계점을 가진다. 
 - Android 안드로이드에서 HttpUrlConnection을 이용해 Servlet과 단방향 통신으로 하고, service 기능을 이용해 socket과 양방향 통신을 하며, 백엔드로 Servlet과 socket이 JDBC를 통해 Database에 접근 및 관리한다.
 ___
+
+최종보고서 원본 : https://github.com/okseokwooo/GDDL/tree/master
