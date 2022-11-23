@@ -3,7 +3,12 @@
 ## Career
 
 2017.03 ~ 2023.02 상명대학교 스마트정보통신공학과 졸업(예정)  
-### 이수 과목
+
+
+<details>
+<summary>이수과목</summary>
+
+<!-- summary 아래 한칸 공백 두어야함 -->
 |연도|과목|사용언어|프로젝트|내용|학점|
 |---|---|---|---|---|---|
 |2017|C프로그래밍|C|X|C언어 기초에대한 학습|A+|
@@ -18,8 +23,12 @@
 |2021|임베디드시스템설계|C|miniShell|리눅스의 이론과 c를이용한 쉘구현|A+|
 |2022|캡스톤디자인|Python,Java|이어폰알람|자율 프로젝트|B|
 |2022|웹프레임워크설계|Html,JS|X|Java Script를 사용한 웹페이지 작성방법|A+|
+  
+</details>
+
 ## 자격증
 정보처리 산업기사
+  
 ## Skill
 <ul>
   <li>C</li>
@@ -34,7 +43,7 @@
 <ul>
   <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">링크</a></li>
   <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">링크</a></li>
-  <li>[쇼핑몰]()</li>
+  <li>쇼핑몰</li>
 </ul>   
 
 ## 팀프로젝트
@@ -47,7 +56,7 @@
 ## 활동
 <ul> 
   <li>
-    알고리즘 학습<a href = "https://github.com/makeonwoo/Algorithm">링크</a></li>
+    알고리즘 학습 <a href = "https://github.com/makeonwoo/Algorithm">링크</a></li>
   <li>
     we-up 프로젝트
     </li>
