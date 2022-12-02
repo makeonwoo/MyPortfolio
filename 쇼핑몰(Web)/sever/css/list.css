@@ -1,0 +1,32 @@
+/* 물품등록(add.php.php) */
+#box { position: relative; width: 1000px; margin: 0 auto; }
+#box h3 { margin-top: 30px;	padding: 10px; border-bottom: solid 2px #516e7f; font-size: 20px; }
+#add_form span { display: inline-block; }
+#add_form .col1 { width: 150px; }
+#add_form li {	padding: 12px; border-bottom: solid 1px #dddddd; }
+#add_form textarea { width: 500px;	height: 150px; }
+#add_form #text_area {	position: relative;	height: 158px; }
+#add_form #text_area .col1 { position: absolute; top: 10px; }
+#add_form #text_area .col2 { position: absolute; left: 166px; }
+#box .buttons { text-align: right; margin: 20px 0 40px 0; }
+#box .buttons li { display: inline; }
+#box .buttons button { padding: 5px 10px; cursor: pointer; }
+/* 물품 목록보기(category_list.php) */
+#list h3 { margin-top: 30px; padding: 10px; border-bottom: solid 2px #516e7f; font-size: 20px; }
+#list li {  border-bottom: solid 1px #dddddd;}
+#list span { display: inline-block; text-align: center;}
+#list .col1 { width: 80px; }
+#list .col2 { width: 100px;}
+#list .col3 { width: 100px; }
+#list .col4 { width: 100px; }
+#list .col5 { width: 180px; }
+#list .col6 { width: 80px; }
+#list .col7 { width: 680px; text-align: right; }
+#list .col8 { width: 180px; }
+#page_num {	text-align: center;	margin: 30px 0 }
+#page_num li { display: inline; }
+
+#list_box { width: 700px; margin: 0 auto; }
+#list_box .title { margin-top: 30px; padding: 10px; border-bottom: solid 2px #516e7f; font-size: 20px; }
+
+
