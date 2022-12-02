@@ -43,7 +43,7 @@
 <ul>
   <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">link</a></li>
   <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">link</a></li>
-  <li>쇼핑몰 <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">link</a></li></li>
+  <li>쇼핑몰 <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%87%BC%ED%95%91%EB%AA%B0(Web)">link</a></li></li>
 </ul>   
 
 ## 팀프로젝트
