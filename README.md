@@ -41,22 +41,22 @@
 ## 개인프로젝트 
 
 <ul>
-  <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">링크</a></li>
-  <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">링크</a></li>
-  <li>쇼핑몰</li>
+  <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">link</a></li>
+  <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">link</a></li>
+  <li>쇼핑몰 <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">link</a></li></li>
 </ul>   
 
 ## 팀프로젝트
 
 <ul>
-  <li>갖다드림(모바일어플리케이션) <a href = "https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md">링크</a></li>
-  <li>이어폰 알람(모바일어플리케이션) <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9D%B4%EC%96%B4%ED%8F%B0">링크</a></li>
+  <li>갖다드림(모바일어플리케이션) <a href = "https://github.com/makeonwoo/MyPortfolio/blob/main/%EA%B0%96%EB%8B%A4%EB%93%9C%EB%A6%BC(GDDL)/README.md">link</a></li>
+  <li>이어폰 알람(모바일어플리케이션) <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%9D%B4%EC%96%B4%ED%8F%B0">link</a></li>
 </ul>  
 
 ## 활동
 <ul> 
   <li>
-    알고리즘 학습 <a href = "https://github.com/makeonwoo/Algorithm">링크</a></li>
+    알고리즘 학습 <a href = "https://github.com/makeonwoo/Algorithm">link</a></li>
   <li>
     we-up 프로젝트
     </li>
