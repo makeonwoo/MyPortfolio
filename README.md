@@ -49,9 +49,7 @@
 ## 참여 프로젝트
 
 <ul>
-  <li>Telus V4.0 - ipageon</li>
-  <li>Telus V4.5 - ipageon</li>
-  <li>AT&T - ipageon</li>
+  <li>Telus DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">link</a></li>
 </ul>
 
 ## 개인프로젝트 
