@@ -30,7 +30,7 @@
 ## 자격증
 정보처리 산업기사
   
-## Skill
+## 프로그래 언어
 <ul>
   <li>C</li>
   <li>Java</li>
@@ -38,6 +38,21 @@
   <li>Javascript</li>
   <li>sql</li>
 </ul>  
+
+## 협업 툴 
+<ul>
+  <li>Redmine</li>
+  <li>GitLab</li>
+  <li>제플린</li>
+</ul>  
+
+## 참여 프로젝트
+
+<ul>
+  <li>Telus V4.0 - ipageon</li>
+  <li>Telus V4.5 - ipageon</li>
+  <li>AT&T - ipageon</li>
+</ul>
 
 ## 개인프로젝트 
 
