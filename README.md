@@ -49,7 +49,7 @@
 ## 참여 프로젝트
 
 <ul>
-  <li>Telus DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">link</a></li>
+  <li>Telus<a href = "https://github.com/makeonwoo/MyPortfolio/blob/main/Telus.md">link</a></li>
 </ul>
 
 ## 개인프로젝트 
