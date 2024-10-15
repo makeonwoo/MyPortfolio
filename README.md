@@ -30,7 +30,7 @@
 ## 자격증
 정보처리 산업기사
   
-## 프로그래 언어
+## 프로그래밍 언어
 <ul>
   <li>C</li>
   <li>Java</li>
@@ -49,15 +49,15 @@
 ## 참여 프로젝트
 
 <ul>
-  <li>Telus<a href = "https://github.com/makeonwoo/MyPortfolio/blob/main/Telus.md">link</a></li>
+  <li>Telus<a href = "https://github.com/makeonwoo/MyPortfolio/blob/main/Telus.md">"https://github.com/makeonwoo/MyPortfolio/blob/main/Telus.md"</a></li>
 </ul>
 
 ## 개인프로젝트 
 
 <ul>
-  <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">link</a></li>
-  <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">link</a></li>
-  <li>쇼핑몰 <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%87%BC%ED%95%91%EB%AA%B0(Web)">link</a></li></li>
+  <li>축구선수 DB <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase">"https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase"</a></li>
+  <li>mini-shell <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell">"https://github.com/makeonwoo/MyPortfolio/tree/main/Mini-Shell"</a></li>
+  <li>쇼핑몰 <a href = "https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%87%BC%ED%95%91%EB%AA%B0(Web)">"https://github.com/makeonwoo/MyPortfolio/tree/main/%EC%87%BC%ED%95%91%EB%AA%B0(Web)"</a></li></li>
 </ul>   
 
 ## 팀프로젝트
