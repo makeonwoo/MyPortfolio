@@ -30,20 +30,21 @@
 ## 자격증
 정보처리 산업기사
   
-## 프로그래밍 언어
+## 기술 스택  
+
+### 프로그래밍 언어
 <ul>
-  <li>C</li>
+  <li>C++</li>
   <li>Java</li>
+  <li>Kotlin</li>
   <li>Python</li>
-  <li>Javascript</li>
   <li>sql</li>
 </ul>  
 
-## 협업 툴 
+### 협업 툴 
 <ul>
   <li>Redmine</li>
   <li>GitLab</li>
-  <li>제플린</li>
 </ul>  
 
 ## 참여 프로젝트
