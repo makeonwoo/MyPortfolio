@@ -3,6 +3,8 @@
 ## Career
 
 2017.03 ~ 2023.02 상명대학교 스마트정보통신공학과 졸업  
+2022.12 ~ 2024.05 Ipageon 재직  
+
 <details>
 <summary>이수과목</summary>
 
@@ -23,7 +25,6 @@
 |2022|웹프레임워크설계|Html,JS|X|Java Script를 사용한 웹페이지 작성방법|A+|
   
 </details>
-2022.12 ~ 2024.05 Ipageon 재직  
 
 
 ## 자격증
