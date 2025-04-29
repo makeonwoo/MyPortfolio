@@ -69,7 +69,7 @@
 
 ## 🙋‍♂️ 개인 프로젝트
 - **FTP 파일 관리 앱**  
-  [🔗 GitHub 링크](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)
+  [🔗 GitHub 링크](https://github.com/makeonwoo/PointMobileProject)
 
 - **축구선수 DB**  
   [🔗 GitHub 링크](https://github.com/makeonwoo/MyPortfolio/tree/main/DataBase)
