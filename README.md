@@ -69,7 +69,6 @@ OkHttp, Google STT API, Papago API, RecyclerView, Android Socket, Room(DB)
   - Oriient API 연동 및 인증 구현 (Auth Token 기반)
   - Location Services 구현 (Map 연동 70% 완료)
   - GPS, ActivityTransition API 기반 사용자 상태 추적  
-🔗 [포트폴리오 보기](https://github.com/makeonwoo/MyPortfolio)
 
 ---
 
