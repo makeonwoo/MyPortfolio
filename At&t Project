@@ -1,0 +1,49 @@
+## 🌐 AT&T 프로젝트 – Ipageon
+
+**클라이언트**: AT&T (미국)  
+**프로젝트 개요**: 기존 Java 기반 MCPTT 앱을 Kotlin으로 새롭게 재개발하여 AT&T에 제공  
+**플랫폼**: Android (Kotlin 기반)
+
+---
+
+### 🗓️ 개발 기간
+
+- **2023.11 ~ 2024.04**  
+  - Kotlin 전환 및 신규 기능 개발  
+  - 외부 API 연동 및 인증 처리
+
+---
+
+### ✨ 주요 개발 기능
+
+#### 🧭 위치 기반 기능 (Location Services)
+- **Oriient API** 연동 (버전 0.12.1)
+- Oriient World Map Kit(0.10.1) 기반 Map 출력 구현
+- GPS 기반의 사용자 위치 확인 및 지도 상 표시
+
+#### 🔐 인증 기능 구현
+- Oriient API의 **OAuth 인증 프로세스 분석 및 구현**
+- Auth Token 발급/갱신 관리
+- 인증 로직을 모듈화하여 재사용성과 유지보수성 강화
+
+#### 📡 위치 주기 전송 기능
+- ActivityTransition API 및 GPS 추적을 기반으로 사용자의 현재 상태 감지
+- 사용자의 상태 변화에 따라 서버에 주기적으로 위치 정보 전송
+- 배터리 소모를 고려한 최적화 구현
+
+---
+
+### 🛠 사용 기술
+
+- **언어**: Kotlin
+- **API**: Oriient Location SDK, Google Location API
+- **기술**: ActivityTransition, Token Auth, Custom Map Kit
+- **도구**: Android Studio, Git
+
+---
+
+### 📌 프로젝트 의의
+
+- Kotlin 기반의 대규모 MCPTT 앱을 처음부터 구조 설계 및 개발
+- 외부 업체 API 연동, 인증 방식 구현 등 실무적인 API 통합 경험 강화
+- **보안, 위치 정확도, 배터리 최적화** 등 다양한 실환경 요소를 고려한 개발 경험 축적
