@@ -36,16 +36,49 @@
 
 ---
 
-## 🛠 Skills
+## 🛠 Technical Skills & Experience
 
-### 💻 Programming Languages  
-Kotlin, Java, Python, C, SQL
+### 📱 Android (Kotlin / Java)
+- **Telus / AT&T 프로젝트**에서 미션 크리티컬 앱을 개발 및 유지보수
+- 실시간 STT(음성 텍스트 변환), 다국어 번역 기능 구현 경험
+- **ActivityTransition API**, GPS, Sensor 기반 위치 감지 로직 설계
+- **러기드 디바이스(XP5P)** 최적화 경험: 해상도 대응, 버튼 UI, 하드웨어 키 연동
 
-### 📱 Mobile & Tools  
-Android Studio, Firebase, Git, Redmine
+### 🌐 네트워크 & API 통신
+- **OkHttp**를 활용한 서버 API 통신 처리
+- **Oriient Location API** 연동 및 **OAuth 인증 처리** 경험
+- RESTful API 구조 이해 및 **Token 기반 로그인 처리 경험**
+- 발급된 Token을 활용해 인증 요청을 구성하고, API 연동을 직접 수행
 
-### 🧩 Tech & Libraries  
-OkHttp, Google STT API, Papago API, RecyclerView, Android Socket, Room(DB)
+### 🔊 음성 처리 / 번역
+- Google STT API 활용 → 실시간 음성 인식 기능 구현
+- Papago API 활용 → 단말 기준 다국어 번역 기능 프로토타입 제작
+- 음성 통신 중 실시간 메시지 전환 및 전송 타이밍 최적화 경험
+
+### 🗺️ 위치 기반 서비스 (LBS)
+- GPS + Oriient SDK 연동을 통한 정밀한 위치 추적
+- 서버로 위치 주기 전송 기능 구현 → 배터리 절약 고려 설계
+- Custom Map 출력 및 사용자 위치 렌더링 로직 개발
+
+### 🧰 개발 도구 및 협업 환경
+- **Android Studio**, **GitLab**, **Redmine**, **Firebase**, **Postman** 실무 활용
+- Git 기반 버전 관리, Merge Conflict 해결, Branch 전략 경험
+- 팀 간 실시간 협업 경험 다수:
+  - **STT 기능 개발** 시 서버 및 윈도우용 Dispatcher 개발자와 협의하여 데이터 처리 및 동기화
+  - **Location 기능 개발** 시 iOS 개발자 및 PM과 정책 통합 및 트래픽 제어 논의
+  - **XP5P 단말기 대응** 시 기획/디자인팀과 협의하여 UI/UX 개선 및 물리 키 대응 설계
+- 기능 명세 분석, 피드백 적용, QA 이슈 대응 과정에서 주도적인 커뮤니케이션 수행
+
+### 💾 데이터베이스
+- **MySQL** 기반 데이터 저장/관리 경험 (축구 선수 DB, 쇼핑몰 프로젝트)
+- 앱 데이터 저장을 위한 테이블 구조 설계 및 연동 경험
+- Firebase, Room을 활용한 모바일 DB 설계 및 CRUD 로직 구현
+
+### 💻 기타 기술
+- **HTML / PHP** 기반 쇼핑몰 웹사이트 구축 (상품 등록, 로그인, 장바구니 등 기본 기능 구현)
+- **C 언어 기반 Mini Shell** 구현 프로젝트로 리눅스 명령어 처리 구조 이해 및 직접 구현
+- **Python + CNN 모델** 기반 소리 감지 기능 구현 → 경적 소리 인식 이어폰 알람 프로젝트
+- 데이터 크롤링 및 **MySQL DB에 대용량 데이터 저장 및 전처리 자동화 스크립트** 작성 경험
 
 ---
 
@@ -69,6 +102,7 @@ OkHttp, Google STT API, Papago API, RecyclerView, Android Socket, Room(DB)
   - Oriient API 연동 및 인증 구현 (Auth Token 기반)
   - Location Services 구현 (Map 연동 70% 완료)
   - GPS, ActivityTransition API 기반 사용자 상태 추적  
+🔗 [프로젝트 상세 보기](https://github.com/makeonwoo/MyPortfolio/blob/main/At&t.md)
 
 ---
 
